@@ -32,9 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://jenisousa.github.io/NLW.Setup/)
-
 O Habits é um app para ajudar a rastrear hábitos.
+
+- [Visite o projeto online](https://jenisousa.github.io/NLW.Setup/)
 
 ## 🔖 Layout
 
